@@ -23,7 +23,7 @@ class Cal_area
 	
 	void setWall_area()
 	{
-		area2 =2*((length*width)+(length*height)+(length*height));
+		area2 =2*((length*width)+(length*height)+(width*height));
 		System.out.println("Ľß¤čĹéŞí­ążn"+area2);
 		
 	}
