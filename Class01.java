@@ -18,13 +18,13 @@ class Cal_area
 	void setBall_area()
 	{
 		area1 = ((4*(pi*(radius*radius*radius)))/3);
-		System.out.println("�y����n"+area1);
+		System.out.println("˛y§ÎĹéżn"+area1);
 	}
 	
 	void setWall_area()
 	{
 		area2 =2*((length*width)+(length*height)+(length*height));
-		System.out.println("�ߤ�������n"+area2);
+		System.out.println("Ľß¤čĹéŞí­ążn"+area2);
 		
 	}
 }
